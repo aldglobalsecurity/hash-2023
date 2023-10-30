@@ -1,0 +1,15 @@
+# MD5 Entry with hash description
+aa67243f746e5d76f68ec809355ec234  md5_sample1
+
+# SHA1 Entry with hash description
+a57983cb39e25ab80d7d3dc05695dd0ee0e49766  sha1_sample2
+
+# SHA256 Entry with hash description
+ae9bc0b4c5639d977d720e4271da06b50f7c60d1e2070e9c75cc59ab30e49379  sha256_sample1
+
+# Entry without hash description
+0289b0d967cb7b1fb1451339c7b9818a621903090e0020366ab415c549212521
+
+# Invalid entries
+7688499dc71b932feb126347289c0b8a_md5_sample2
+7614e98badca10b5e2d08f8664c519b7a906fbd5180ea5d04a82fce9796a4b87sha256_sample3
